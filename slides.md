@@ -131,7 +131,7 @@
 ---
 
 ## Containerising with <i class="devicon-docker-plain-wordmark"></i>
-<!-- .slide: style="text-align: center; font-size: 30px"> -->
+<!-- .slide: data-visibility="hidden" style="text-align: center; font-size: 30px;"> -->
 <style>
   #left {
     left:-8.33%;
