@@ -11,7 +11,7 @@ This repository contains a presentation delivered in one of the sessions at the 
 
 ## How to view
 
-This presentation is available online at : [https://github.com/tomjanus/openresearch2024-presentation/](https://github.com/tomjanus/openresearch2024-presentation/tree/gh-pages)
+This presentation is available online at : [https://github.com/tomjanus/tyndallassembly24/](https://github.com/tomjanus/tyndallassembly24/tree/gh-pages)
 
 You can also serve it locally e.g. on **localhost:8080**. In Python this would be done by typing
 `
