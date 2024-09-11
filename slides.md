@@ -205,8 +205,7 @@ src="map.html" frameborder="0" allowfullscreen>
 
 ---
 
-### Please visit us later for updates
-<img src="images/qr_code.png" width=250px>
+## Contributors
 
 <!-- .slide: style="text-align: center; font-size: 30px"> -->
 <style>
@@ -225,3 +224,12 @@ src="map.html" frameborder="0" allowfullscreen>
     <td align="center"><img class="img custom faces" src="images/sinnott.jpeg" alt=""/><br /><sub><b>James Sinnott </b> (Resarch IT)</sub><br /></td>
   </tr>
 </table>
+
+<hr>
+<br>
+
+## Please visit us later for updates
+
+<!-- <img src="images/qr_code.png" width=250px> -->
+
+<a href="https://tomjanus.github.io/tyndallassembly24/">https://tomjanus.github.io/tyndallassembly24</a>
