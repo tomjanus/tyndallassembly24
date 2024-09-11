@@ -7,7 +7,7 @@
 <img src="images/upper_paunglaung.jpg" 
     style="float: center; border-radius: 5%; box-shadow: 0px 0px 10px rgba(255, 255, 255, 1)" height="270">
 
-<a href="https://tomjanus.github.io/tyndall-assembly2024/">https://tomjanus.github.io/tyndall-assembly2024</a>
+<a href="https://tomjanus.github.io/tyndallassembly24/">https://tomjanus.github.io/tyndallassembly24</a>
 
 ---
 
